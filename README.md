@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Ramos</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<h3>My name is Ignacio Ramos, I am 23 years old and a passionate Full Stack Developer from Argentina</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
