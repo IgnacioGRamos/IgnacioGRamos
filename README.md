@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <br>
-- 📫 How to reach me ignaciornacho98@gmail.com
+- 📫 How to reach me: ignaciornacho98@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
