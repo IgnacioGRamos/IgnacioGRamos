@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ignacio Ramos</h1>
-<h3>I am 23 years old and I am from Argentina. I am currently finishing a Full Stack Developer course and I am looking to be part of a company where I can apply everything I have learned and grow as a professional.</h3>
+<h3>I am 23 years old and I am from Argentina. I am a Full Stack Developer and I am looking to be part of a company where I can apply everything I have learned and grow as a professional.</h3>
 <h3>I love the whole IT world, programming is without a doubt my vocation.</h3>
 <h3>I have several projects where I put into practice different tools and languages, which can be seen here. I am also working on some projects that I will upload soon.</h3>
 <div align="center">
